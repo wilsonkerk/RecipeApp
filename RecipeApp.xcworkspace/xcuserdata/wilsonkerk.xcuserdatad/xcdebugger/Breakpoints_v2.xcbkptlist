@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B2E0FAC3-A776-4C1F-B8B8-72B2DF46766B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "392E3F4A-F5D2-440C-B58E-FC4C3F8CA1A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipeApp/Models/RecipeXMLParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "saveRecipesToXML(recipes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "392E3F4A-F5D2-440C-B58E-FC4C3F8CA1A5 - 32bc85e29959a57a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RecipeApp.RecipeXMLParser.saveRecipesToXML(recipes: Swift.Array&lt;RecipeApp.Recipe&gt;) -&gt; ()"
+                  moduleName = "RecipeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilsonkerk/Documents/Swift%20Projects/RecipeApp/RecipeApp/Models/RecipeXMLParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "3432">
+               </Location>
+               <Location
+                  uuid = "392E3F4A-F5D2-440C-B58E-FC4C3F8CA1A5 - 32bc85e29959a51b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RecipeApp.RecipeXMLParser.saveRecipesToXML(recipes: Swift.Array&lt;RecipeApp.Recipe&gt;) -&gt; ()"
+                  moduleName = "RecipeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilsonkerk/Documents/Swift%20Projects/RecipeApp/RecipeApp/Models/RecipeXMLParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "4536">
+               </Location>
+               <Location
+                  uuid = "392E3F4A-F5D2-440C-B58E-FC4C3F8CA1A5 - 32bc85e29959a51b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RecipeApp.RecipeXMLParser.saveRecipesToXML(recipes: Swift.Array&lt;RecipeApp.Recipe&gt;) -&gt; ()"
+                  moduleName = "RecipeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilsonkerk/Documents/Swift%20Projects/RecipeApp/RecipeApp/Models/RecipeXMLParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "3432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "352D5CDC-8047-4DE4-9C3D-D3F6B3A42E70"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipeApp/Detail/RecipeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "352D5CDC-8047-4DE4-9C3D-D3F6B3A42E70 - b55b0eb815efe1e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in RecipeApp.RecipeView.body.getter : some"
+                  moduleName = "RecipeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilsonkerk/Documents/Swift%20Projects/RecipeApp/RecipeApp/Detail/RecipeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "352D5CDC-8047-4DE4-9C3D-D3F6B3A42E70 - 8101bee49f25c17c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.Image) -&gt; &lt;&lt;opaque return type of SwiftUI.View.aspectRatio(_: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, contentMode: SwiftUI.ContentMode) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in RecipeApp.RecipeView.body.getter : some"
+                  moduleName = "RecipeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilsonkerk/Documents/Swift%20Projects/RecipeApp/RecipeApp/Detail/RecipeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D64A91BF-AA09-4BB2-8994-F76C5563D872"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipeApp/Detail/RecipeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

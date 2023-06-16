@@ -1,14 +1,13 @@
-﻿			
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <RecipeTypes>
-	<Type>Breakfast</Type>
-	<Type>Dessert</Type>
-	<Type>Soup</Type>
-	<Type>Salad</Type>
-	<Type>Appetizer</Type>
-	<Type>Main</Type>
-	<Type>Side</Type>
-	<Type>Snack</Type>
-	<Type>Drink</Type>
+   <Type>Breakfast</Type>
+   <Type>Dessert</Type>
+   <Type>Soup</Type>
+   <Type>Salad</Type>
+   <Type>Appetizer</Type>
+   <Type>Main</Type>
+   <Type>Side</Type>
+   <Type>Snack</Type>
+   <Type>Drink</Type>
 </RecipeTypes>
 			
